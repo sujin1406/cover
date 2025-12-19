@@ -183,10 +183,12 @@ body{
 ```
 
 ## OUTPUT:
-![Output](./Screenshot 2025-12-19 185138.png)
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 185138" src="https://github.com/user-attachments/assets/344884a0-1739-4b00-8caf-860270e268e9" />
+
 
 ## HTML VALIDATOR:
-![HTML Validator](./Screenshot 2025-12-19 185815.png)
+<img width="1920" height="1080" alt="Screenshot 2025-12-19 185815" src="https://github.com/user-attachments/assets/f6f80b7c-cbd6-4937-961a-2ed265f5bf40" />
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
